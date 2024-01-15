@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋, I'm Janiece
+   ##### Front End Developer
 
 <!--
 **Janiece19/janiece19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
